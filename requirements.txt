@@ -8,8 +8,9 @@ imageio[ffmpeg]
 kornia
 matplotlib
 mediapy
-numpy
+numpy==1.24.0
 pandas
 pillow
 tqdm
 PyYAML
+typeguard

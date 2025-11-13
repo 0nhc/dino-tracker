@@ -1,3 +1,13 @@
+This is my modified `dino-tracker` for my `Ubuntu 22.04` machine with `Python 3.10`.
+```sh
+git clone https://github.com/0nhc/dino-tracker.git
+cd dino-tracker
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
+```
+
 # DINO-Tracker: Taming DINO for Self-Supervised Point Tracking in a Single Video (ECCV 2024)
 
 ## [<a href="https://dino-tracker.github.io/" target="_blank">Project Page</a>] [<a href="https://arxiv.org/abs/2403.14548" target="_blank">arXiv</a>]
